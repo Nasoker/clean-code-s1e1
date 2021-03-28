@@ -134,7 +134,7 @@ li > label {
 }
 
 li > input[type="text"] {
-    width: 226px
+    width: 226px;
 }
 
 li > button.delete:hover {
@@ -153,7 +153,7 @@ button.delete img:hover {
 
 /* Completed */
 #completed-tasks label {
-    text-decoration: line-through
+    text-decoration: line-through;
     color: #888;
 }
 
